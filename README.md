@@ -7,6 +7,7 @@
 <p>I’ve always loved being creative—painting, crafting, and making things by hand have been part of my life for as long as I can remember. It’s something I turn to when I want to unwind or express myself.</p>
 
 <p>I also enjoy spending time with friends, getting outside, and trying new things. Whether it's exploring a new neighborhood or just going on a spontaneous outing, I’m always open to a bit of adventure and fun.</p>
+<p> I’m excited to start using GitHub as a way to organize and showcase my projects—from community initiatives to personal creative work. I hope to build a space where my ideas, experiences, and growth can come together in one place. As I learn more, I aim to use this platform to collaborate</p>
 
   
   <h2> 🛠️ Skills </h2>
